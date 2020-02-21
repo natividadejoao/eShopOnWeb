@@ -1,0 +1,11 @@
+/home/jr/Desktop/ecommerce_shop/Infras/obj/Debug/netstandard2.1/Infras.csprojAssemblyReference.cache
+/home/jr/Desktop/ecommerce_shop/Infras/obj/Debug/netstandard2.1/Infras.AssemblyInfoInputs.cache
+/home/jr/Desktop/ecommerce_shop/Infras/obj/Debug/netstandard2.1/Infras.AssemblyInfo.cs
+/home/jr/Desktop/ecommerce_shop/Infras/bin/Debug/netstandard2.1/Infras.deps.json
+/home/jr/Desktop/ecommerce_shop/Infras/bin/Debug/netstandard2.1/Infras.dll
+/home/jr/Desktop/ecommerce_shop/Infras/bin/Debug/netstandard2.1/Infras.pdb
+/home/jr/Desktop/ecommerce_shop/Infras/bin/Debug/netstandard2.1/Application.dll
+/home/jr/Desktop/ecommerce_shop/Infras/bin/Debug/netstandard2.1/Application.pdb
+/home/jr/Desktop/ecommerce_shop/Infras/obj/Debug/netstandard2.1/Infras.csproj.CopyComplete
+/home/jr/Desktop/ecommerce_shop/Infras/obj/Debug/netstandard2.1/Infras.dll
+/home/jr/Desktop/ecommerce_shop/Infras/obj/Debug/netstandard2.1/Infras.pdb

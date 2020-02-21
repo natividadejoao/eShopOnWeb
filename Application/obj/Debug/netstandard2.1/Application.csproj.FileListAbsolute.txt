@@ -1,0 +1,8 @@
+/home/jr/Desktop/ecommerce_shop/Application/bin/Debug/netstandard2.1/Application.deps.json
+/home/jr/Desktop/ecommerce_shop/Application/bin/Debug/netstandard2.1/Application.dll
+/home/jr/Desktop/ecommerce_shop/Application/bin/Debug/netstandard2.1/Application.pdb
+/home/jr/Desktop/ecommerce_shop/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/home/jr/Desktop/ecommerce_shop/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/home/jr/Desktop/ecommerce_shop/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/home/jr/Desktop/ecommerce_shop/Application/obj/Debug/netstandard2.1/Application.dll
+/home/jr/Desktop/ecommerce_shop/Application/obj/Debug/netstandard2.1/Application.pdb
